@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Arosaje_Api.props" />
+</Project>
